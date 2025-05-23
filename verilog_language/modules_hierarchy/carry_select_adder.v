@@ -3,7 +3,7 @@
 //of these to build the carry-select adder, using your own 16-bit 2-to-1 multiplexer.
 
 //Connect the modules together as shown in the diagram below. The provided module add16 has the following 
-declaration:
+//declaration:
 
 //module add16 ( input[15:0] a, input[15:0] b, input cin, output[15:0] sum, output cout );
 
